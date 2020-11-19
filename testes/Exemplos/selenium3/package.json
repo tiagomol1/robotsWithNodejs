@@ -1,0 +1,18 @@
+{
+  "name": "seleniumexample2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Murilo Ochôa da Luz",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "exceljs": "^3.8.2",
+    "fs": "0.0.1-security",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "xlsx": "^0.15.6"
+  }
+}
